@@ -1,6 +1,5 @@
 import React,{useState} from 'react';
 import "./Body.css"
-import Meme from "../data/memesdata"
 
 const Body = () => {
   const [memeImage,setmemeImage]=useState("https://i.imgflip.com/1g8my4.jpg");
