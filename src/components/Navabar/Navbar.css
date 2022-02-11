@@ -1,0 +1,29 @@
+
+.container
+{
+    max-width: 80%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #672280;
+}
+.header
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img1
+{
+    width:50px;
+    height: fit-content;
+    margin: 1.25rem;
+}
+.img2
+{
+    width: 50px;
+    height: fit-content;
+    margin: 1.25rem;
+
+}
